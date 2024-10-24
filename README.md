@@ -1,0 +1,3 @@
+This is probably something I made when I was in middle school.
+
+probably a script that reads Windows events and shows the mount history of the USB...
